@@ -1,0 +1,71 @@
+cen {
+  animation-duration: 2s;
+  animation-name: uhhh;
+}
+
+@keyframes uhhh {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+body{
+  background-image: linear-gradient(#e66465, #9198e5);
+  background-position:center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+img {
+  animation-duration: 3s;
+  animation-name: sus;
+}
+
+@keyframes sus {
+  from {
+    margin-left: 500%;
+    width: 50%;
+  }
+
+  to {
+    margin-left: 25%;
+    width: 50%;
+  }
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+re {
+  animation-duration: 2s;
+  animation-name: u;
+}
+@keyframes u {
+  from {
+    color:black;
+  }
+
+  to {
+    color:transparent;
+  }
+}
+och {
+  animation-duration: 3s;
+  animation-name: och;
+}
+@keyframes och {
+  from {
+    color:transparent;
+  }
+
+  to {
+    color:black;
+  }
+}
